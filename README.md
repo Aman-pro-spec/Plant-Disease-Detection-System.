@@ -1,17 +1,56 @@
 # 🌱 Plant Disease Prediction System
 
-## 👨‍💻 Developed By
-*Aman Singh*
-Computer Science & Engineering (AI & ML)
-Noida Institute of Engineering & Technology (NIET)
+### 🚀 Live Demo: [Click Here to Test the App](https://plant-disease-detection-system-ctqjkdq9exddzryrrupzec.streamlit.app/)
 
-## 📝 Project Description
-This is a Deep Learning project that uses a Convolutional Neural Network (CNN) to detect diseases in plant leaves. The model detects 38 different classes of plant diseases with high accuracy.
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![TensorFlow](https://img.shields.io/badge/Library-TensorFlow-orange)
+![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)
+![Status](https://img.shields.io/badge/Status-Deployed-success)
+
+## 📌 Project Overview
+This is a Deep Learning project developed by *Aman Singh* (NIET, Greater Noida). It uses a *Convolutional Neural Network (CNN)* to automatically detect and classify diseases in plant leaves.
+
+The model is trained to recognize *38 different classes* of plant diseases (including Apple, Tomato, Potato, Corn, etc.) with high accuracy.
 
 ## 📂 Dataset
-The dataset used for this project is available here:
-*[PASTE YOUR DRIVE DATASET LINK HERE]*
+The model was trained on a large dataset containing over *87,000 images* of healthy and diseased crop leaves.
 
-## 🚀 How to Run
-1. Install libraries: pip install -r requirements.txt
-2. Run the app: streamlit run app.py
+🔗 *Download Dataset:* [Google Drive Link](https://drive.google.com/file/d/1iehnpMlaR7vuEon3He6a8DqWg59y_hP5/view?usp=sharing)
+
+## 🛠 Tech Stack
+* *Language:* Python
+* *Deep Learning:* TensorFlow & Keras
+* *Web Framework:* Streamlit
+* *Image Processing:* NumPy, Pillow
+
+## 📸 Features
+* *Simple UI:* User-friendly interface built with Streamlit.
+* *Real-time Prediction:* Upload an image and get results instantly.
+* *High Accuracy:* Uses a robust CNN architecture for classification.
+
+## 🏃‍♂ How to Run Locally
+
+1.  *Clone the Repository:*
+    bash
+    git clone [https://github.com/Aman-pro-spec/Plant-Disease-Detection-System.git](https://github.com/Aman-pro-spec/Plant-Disease-Detection-System.git)
+    cd Plant-Disease-Detection-System
+    
+
+2.  *Install Dependencies:*
+    bash
+    pip install -r requirements.txt
+    
+
+3.  *Run the App:*
+    bash
+    streamlit run app.py
+    
+
+## 👨‍💻 Developed By
+*Aman Singh*
+* *Institute:* Noida Institute of Engineering & Technology (NIET)
+* *Course:* CSE (AI & ML)
+* *Connect:* [LinkedIn Profile](https://www.linkedin.com/)
+
+---
+⭐ *Don't forget to star this repo if you find it helpful!*
